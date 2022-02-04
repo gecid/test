@@ -1,6 +1,13 @@
 # test
 Test repository
 
-## Subtitle
+## Proces of data analysis
 
-**black_font**
+* Ask
+* Prepare
+* Clean
+* Analyze
+* Share
+* Act
+
+
